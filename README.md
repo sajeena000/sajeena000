@@ -2,7 +2,7 @@
 
 ## About Me
 - Future coding legend currently in training montage mode
-- Got a few projects brewing (they compile and everything!)
+- Got a few projects brewing (they run and everything!)
 - Turning coffee into code, one Stack Overflow tab at a time
 - Ready to level up from personal projects to team adventures
 
