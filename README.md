@@ -1,4 +1,4 @@
-### Hi there! <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Qxd2ZjY3JxY2RpYXEyNmRybzR1emo1cDczZXVmNnVlMWJseDZuaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Wj7lNjMNDxSmc/giphy.gif" width="25"/> I'm Sajeena
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> I'm Sajeena
 
 ## About Me
 - Future coding legend currently in training montage mode
