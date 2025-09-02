@@ -7,7 +7,7 @@
 - Ready to level up from personal projects to team adventures
 
 ## Tech Stack
-**What I know:** The basics (we're getting acquainted)
+**What I know:** The basics (we're getting acquainted)  
 **What I've Googled:** Everything else
 
 ## Let's Connect
